@@ -3,7 +3,7 @@
 👋 Hi, I’m **Prerna Prem**  
 A passionate **Full-Stack Developer & DSA enthusiast**. I love building web applications, solving algorithmic problems, and learning new technologies every day.
 ### 🔹 Skills
-- **Programming Languages:** Java, C++, Python, PHP  
+- **Programming Languages:** Java, C++,PHP  
 - **Web / MERN Stack:** HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB  
 - **Tools & Database:** Git, MySQL, VS Code, GitHub  
 - **DSA & Competitive Coding:** Problem-solving, LeetCode, Hackathons  
