@@ -1,16 +1,25 @@
-## Hi there 👋
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tech Stack Banner](https://i.ibb.co/2kT0K9F/tech-stack.png)  <!-- Replace with your own image URL -->
 
+<!-- Programming Languages -->
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+
+<!-- Web / MERN Stack -->
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+<!-- Tools / Others -->
+![Git](https://skillicons.dev/icons?i=git)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+<!-- Optional: DSA / Algo icon -->
+![DSA](https://skillicons.dev/icons?i=leetcode)
