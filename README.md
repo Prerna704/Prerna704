@@ -1,6 +1,6 @@
 ### Tech Stack
 
-![Tech Stack Banner](https://i.ibb.co/2kT0K9F/tech-stack.png)  <!-- Replace with your own image URL -->
+![Tech Stack Banner](https://www.google.com/imgres?q=img%20icon%20for%20tech%20stack&imgurl=https%3A%2F%2Fcdn-icons-png.freepik.com%2F256%2F2582%2F2582094.png%3Fsemt%3Dais_white_label&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ficons%2Ffull-stack-development&docid=EfV5XndbACoe2M&tbnid=BZ7HnX3HoJkeXM&vet=12ahUKEwjXlrPU4qCRAxXG4jgGHZCAOrQQM3oECDYQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwjXlrPU4qCRAxXG4jgGHZCAOrQQM3oECDYQAA)  <!-- Replace with your own image URL -->
 
 <!-- Programming Languages -->
 ![Java](https://skillicons.dev/icons?i=java)
