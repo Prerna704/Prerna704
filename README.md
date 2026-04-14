@@ -2,15 +2,7 @@
 
 👋 Hi, I’m **Prerna Prem**  
 A passionate **Full-Stack Developer & DSA enthusiast**. I love building web applications, solving algorithmic problems, and learning new technologies every day.
-### 🔹 About My Work
-- Building **web applications** using the MERN stack  
-- Practicing **Data Structures & Algorithms** regularly  
-- Contributing to **open source** and **GitHub projects**  
-- Learning and exploring **new frameworks & technologies**
-### 🔹 Interests
-- Web Development, MERN Stack, Full-Stack Projects  
-- Competitive Coding, Algorithmic Challenges  
-- Problem Solving, Hackathons, Tech Blogs  
+
 ### TECH STACK
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
